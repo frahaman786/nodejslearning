@@ -52,3 +52,7 @@ async function writefile(){
     }
 }
 writefile();
+
+async function main(){
+
+}

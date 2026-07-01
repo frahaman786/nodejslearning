@@ -1,6 +1,6 @@
 const fs = require('node:fs');
 
-const folderName = 'Rahim';
+const folderName = 'Test';
 
 try {
   fs.accessSync(folderName);
